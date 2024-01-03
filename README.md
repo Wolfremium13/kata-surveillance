@@ -1,4 +1,4 @@
-# kata-survilleance
+# 📷 kata-survilleance
 
 **Motion Sensor and Video Recorder Interface**
 
